@@ -59,8 +59,8 @@ Sigue estos pasos después de clonar el repositorio:
 
 ### 1. Clonar el repositorio
 ```bash
-git clone <URL-del-repo>
-cd <nombre-del-proyecto>
+git clone https://github.com/Ariel-Solano-Rivera/Microservicios---DockerCompose.git
+cd Microservicios---DockerCompose
 ```
 ## 2. Construir las imágenes
 ```bash
